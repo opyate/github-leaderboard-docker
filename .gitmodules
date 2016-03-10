@@ -1,0 +1,3 @@
+[submodule "github-leaderboard"]
+	path = github-leaderboard
+	url = https://github.com/eugef/github-leaderboard.git

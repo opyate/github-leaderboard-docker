@@ -1,0 +1,6 @@
+.gitmodules
+.git
+Makefile
+README.md
+config.template.js
+update-repos.sh
